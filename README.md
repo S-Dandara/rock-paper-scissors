@@ -1,11 +1,11 @@
 # Rock, paper, scissors project
 
-```
-### **Project view:**
 
-https://s-dandara.github.io/rock-paper-scissors/
+>### **Project view:**
+>
+>https://s-dandara.github.io/rock-paper-scissors/
+>
 
-```
 
 In this project I was able to practice with functional programing to make a simple implementation of grade-school classic “rock paper scissors” to be played from the browser console against the machine.
 <br>
